@@ -1,3 +1,4 @@
+import time
 def slowprint(text):
   text = str(text)
   duration = 0
